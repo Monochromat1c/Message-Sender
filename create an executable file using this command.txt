@@ -1,0 +1,1 @@
+pyinstaller --onefile --name MessageSender message_sender.py
