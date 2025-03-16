@@ -2,4 +2,4 @@ Terminal only:
 pyinstaller --onefile --name MessageSender message_sender.py
 
 With GUI:
-pyinstaller --onefile --name MessageSender message_sender_gui.py
+pyinstaller --onefile --noconsole --icon=icon.ico --name MessageSender --clean message_sender_gui.py
