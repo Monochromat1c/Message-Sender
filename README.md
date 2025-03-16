@@ -53,8 +53,4 @@ Built using:
 - Python
 - tkinter for GUI
 - pyautogui for message automation
-<<<<<<< HEAD
 - Threading for non-blocking operation 
-=======
-- Threading for non-blocking operation 
->>>>>>> 84e669f15ffc8d3483394ade175d05ea5b26e88b
