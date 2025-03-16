@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['message_sender.py'],
+    ['message_sender_gui.py'],
     pathex=[],
     binaries=[],
     datas=[],

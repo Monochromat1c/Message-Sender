@@ -1,1 +1,5 @@
+Terminal only:
 pyinstaller --onefile --name MessageSender message_sender.py
+
+With GUI:
+pyinstaller --onefile --name MessageSender message_sender_gui.py
