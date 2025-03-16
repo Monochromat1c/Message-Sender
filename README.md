@@ -23,7 +23,7 @@ A utility application that helps you send multiple messages automatically with c
 2. Enter your messages in the text area (one message per line)
 3. Set the delay time (in seconds) before the program starts sending messages
 4. Click "Send Messages"
-5. Switch to your target application window during the delay countdown
+5. Switch to your target application window during the delay countdown and focus on the text input area
 6. The program will automatically type and send each message
 
 ## Requirements
